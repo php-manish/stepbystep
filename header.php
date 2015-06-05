@@ -1,3 +1,3 @@
 <?php
 
-echo "This content is from header.php";
+echo "This updated content is from header.php";
